@@ -17,4 +17,10 @@ hhtps://luizamaral.dev.br
 or send me an email:
 luizfer.amaral@gmail.com
 
+# About APIFY
+Google Maps Scraper
+https://github.com/drobnikj/crawler-google-places
+
+Extend the official Google Maps API and scrape reviews, photos, and popular times from Google Places. Export results in multiple formats. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.
+
 
