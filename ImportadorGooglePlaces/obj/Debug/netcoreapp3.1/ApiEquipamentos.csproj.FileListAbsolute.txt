@@ -1,0 +1,52 @@
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.AssemblyInfoInputs.cache
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.AssemblyInfo.cs
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.exe
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.deps.json
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.runtimeconfig.json
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.runtimeconfig.dev.json
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.dll
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.pdb
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.RazorTargetAssemblyInfo.cache
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\staticwebassets\ApiEquipamentos.StaticWebAssets.Manifest.cache
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\staticwebassets\ApiEquipamentos.StaticWebAssets.xml
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.dll
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.pdb
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.genruntimeconfig.cache
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.csprojAssemblyReference.cache
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.csproj.CoreCompileInputs.cache
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.MvcApplicationPartsAssemblyInfo.cs
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.MvcApplicationPartsAssemblyInfo.cache
+D:\Estudos de Software\Curso Daniel Jesus - NetCore DDD API Gateway Docker Swagger\NetCore - Api Gateway\ApiGateway\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.csproj.CopyComplete
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.exe
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.deps.json
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.runtimeconfig.json
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.runtimeconfig.dev.json
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.dll
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\ApiEquipamentos.pdb
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.csprojAssemblyReference.cache
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.csproj.CoreCompileInputs.cache
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.AssemblyInfoInputs.cache
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.AssemblyInfo.cs
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.RazorTargetAssemblyInfo.cache
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.csproj.CopyComplete
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\staticwebassets\ApiEquipamentos.StaticWebAssets.Manifest.cache
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\staticwebassets\ApiEquipamentos.StaticWebAssets.xml
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.dll
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.pdb
+C:\Users\AMARAL\Desktop\ApiGateway - Logs\ApiServiceOne\obj\Debug\netcoreapp3.1\ApiEquipamentos.genruntimeconfig.cache
