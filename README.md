@@ -12,7 +12,7 @@ This software was built to help developers to import information from google map
 7) Execute a query on the database to see the information imported;
 
 Visit my website to contact me.
-hhtps://luizamaral.dev.br
+https://luiz-amaral-portfolio.vercel.app/
 
 or send me an email:
 luizfer.amaral@gmail.com
